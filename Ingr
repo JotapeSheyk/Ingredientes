@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+         .body {
+             background-color: rgb(168, 86, 80);
+             font-family: Trebuchet ms;
+             
+         }
+         .passo {
+             border-style: outset;
+             border-color: blue;
+             border-radius: 50px;
+         }
+         .main_recipes {
+             border-style: outset;
+             border-color: blue;
+             border-radius: 50px;
+         }
+         .ingredientes {
+             border-style: outset;
+             border-color: blue;
+             border-radius: 20px;
+         }
+         .qtde {
+             border-style: outset;
+             border-color: blue;
+             border-radius: 20px;
+         }
+        </style>
+    </head>
+    <body class="body">
+      
+        <h1>Receitas do jp</h1>
+        
+        <h2 class="passo">Passos:</h2>
+        
+        <ol>
+            <li><a href="https://gshow.globo.com/receitas-gshow/receitas/macarrao-cremoso-de-panela-de-pressao-50b5efcd4d09383d9900003f.ghtml">Macarrão</a></li>  
+            <li><a href="https://comidinhasdochef.com/cuscuz-nordestino/">Cuscuz</a></li>
+            <li><a href="https://www.saboresajinomoto.com.br/receita/macaxeira-cozida">Macaxeira</a></li>
+        </ol>
+        
+        <h2 class="main_recipes">Macarrão de panela de pressão</h2>
+        
+        <ul>
+            <li>Tempo: 40min/1h</li>
+            <li>Serve: 2 a 4 pessoas (depende)</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th class="ingredientes">Ingredientes</th>
+                    <th class="qtde">Quantidade</th>
+                </tr>
+            </thead>
+            <tbody>
+             <tr>
+                 <td>Agua</td>
+                 <td>1l/2l</td>
+             </tr>
+            </tbody> 
+            <tbody>
+             <tr>
+                <td>Macarrão</td>
+                <td>500 gramas</td>
+             </tr>
+            </tbody>
+            <tbody>
+             <tr>
+                 <td>Cebola</td>
+                 <td>uma</td>
+             </tr>
+            </tbody>
+            <tbody>
+             <tr>
+                 <td>Molho de Tomate</td>
+                 <td>1lata</td>
+             </tr>
+            </tbody>
+            <tbody>
+             <tr>
+                 <td>Creme de Leite</td>
+                 <td>1 Lata</td>
+             </tr>
+            </tbody>
+            <tbody>
+             <tr>
+                 <td>Cubos de Caldo de  Galinha</td>
+                 <td>2 Cubos</td>
+             </tr>
+            </tbody>
+            <tbody>
+             <tr>
+                 <td>Margarina</td>
+                 <td>2 colheres de sopa</td>
+             </tr>
+            </tbody>
+            <tbody>
+             <tr>
+                 <td>Agua</td>
+                 <td>1l/2l</td>
+             </tr>
+            </tbody>
+            <tbody>
+             <tr>
+                 <td>Sal</td>
+                 <td>1Colher (rasa)</td>
+             </tr>
+            </tbody>
+            <tbody>
+             <tr>
+                 <td>Presunto fatiado</td>
+                 <td>200 Gramas</td>
+             </tr>
+            </tbody>
+            <tbody>
+             <tr>
+                 <td>Mussarela</td>
+                 <td>2 Gramas</td>
+             </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Passo 1:</strong> Na panela de pressão coloque o macarrão, o molho de tomate, caldo de galinha, margarina e sal, e coloque água até cobrir e misture bem todos os ingredientes.
+</p>
+        <p><strong>Passo 2:</strong> Leve ao fogo alto e quando a panela pegar pressão, conte 4 minutos.</p>
+        <p><strong>Passo 3:</strong> Abra a panela e coloque o presunto, o creme de leite e por último a mussarela, misture bem (obs: não volte a panela para o fogo, com o calor da panela a mussarela derrete) e sirva em seguida, e se delicie.</p>
+
+
+ <h2 class="main_recipes">Cuscuz</h2>
+ 
+ <ul>
+            <li>Tempo: 30min/1h</li>
+            <li>Serve: 2 pessoas</li>
+        </ul>
+    <table>
+     <thead>
+        <tr>
+          <th class="ingredientes">Ingredientes</th>
+            <th class="qtde">Quantidade</th>
+            </tr>
+           <tbody>
+             <tr>
+                 <td>Farinha de Milho</td>
+                 <td>2 Xícaras de chá</td>
+             </tr>
+            </tbody>
+               <tbody>
+             <tr>
+                 <td>Agua</td>
+                 <td>1 Xícara de chá</td>
+             </tr>
+            </tbody>
+               <tbody>
+             <tr>
+                 <td>Sal</td>
+                 <td>1 Colher</td>
+             </tr>
+            </tbody>
+       </thead>
+     </table>
+     
+     <p><strong>Passo 1:</strong> Em uma tigela, junte a farinha de milho com o sal</p>
+     <p><strong>Passo 2: </strong> Misture bem</p>
+     <p><strong>Passo 3:</strong> Em seguida vá adicionando a água aos poucos e vá misturando com as mãos</p>
+     <p><strong>Passo 4:</strong> a quantidade exata de água depende de cada farinha e pode mudar de marca para marca, então o ponto ideal é quando você amassar a massa coma as mãos e ela não se desmancha</p>
+     <p><strong>Passo 5: </strong>Depois cubra essa tigela com um pano e deixe descansar por 20 minutos;
+Passado esse tempo, mexa novamente, para que fique bem soltinho </p>
+    <p><strong>Passo 6: </strong> Depois de ter colocado a agua pra ferver na cuscuzeira, deixe ferver um pouco pra colocar o apoiador da massa, após isso, coloque o apoiador, e em seguida, após soltar a massa, coloque o cuscuz dentro do apoiador e cuscuzeira, e aguarde de 15 a 20 min</p>
+     
+     
+    <h2 class="main_recipes">Macaxeira</h2>
+        <ul>
+            <li>Tempo: 30min/1h</li>
+            <li>Serve: 4 pessoas</li>
+        </ul>
+     <table>
+     <thead>
+        <tr>
+          <th class="ingredientes">Ingredientes</th>
+            <th class="qtde">Quantidade</th>
+        </tr>
+        <tbody>
+             <tr>
+                 <td>Agua</td>
+                 <td>3 Xícaras de chá</td>
+             </tr>
+            </tbody>
+        <tbody>
+             <tr>
+                 <td>Macaxeira</td>
+                 <td>500 gramas</td>
+             </tr>
+            </tbody>
+        <tbody>
+             <tr>
+                 <td>Manteiga de Garrafa</td>
+                 <td>2 Colheres de sopa</td>
+             </tr>
+            </tbody>
+        <tbody>
+             <tr>
+                 <td>Sal</td>
+                 <td>1 Colher chá</td>
+             </tr>
+            </tbody>
+            <tbody>
+            <tr>
+                 <td>Ajinomoto</td>
+                 <td>Meia Colher chá</td>
+             </tr>
+            </tbody>
+           <tbody>
+            <tr>
+                 <td>Cheiro verde  picado</td>
+                 <td>1 Colher Sopa</td>
+             </tr>
+            </tbody>
+        
+     </thead>
+     </table>
+     
+     <p><strong>Passo 1:</strong> Em uma panela média, aqueça a água e junte a macaxeira, a manteiga, o sal e o AJI-NO-MOTO®. Deixe cozinhar por 15 minutos, em fogo médio, com a panela semitampada, ou até a macaxeira ficar macia. Acrescente o cheiro-verde e retire do fogo. </p>
+     <p><strong>Passo 2: </strong> Sirva em seguida, acompanhada de carne-de-sol acebolada. </p> 
+
+    <p><em>Fonte Macarrão: <a href="https://gshow.globo.com/receitas-gshow/receitas/macarrao-cremoso-de-panela-de-pressao-50b5efcd4d09383d9900003f.ghtml">G1 (Globo)</a></em></p>
+    <p><em>Fonte Cuscuz: <a href="https://comidinhasdochef.com/cuscuz-nordestino/">Comidinhas do Chef</a></em></p>
+    <p><em>Fonte Macaxeira: <a href="https://www.saboresajinomoto.com.br/receita/macaxeira-cozida">Sabores Ajinomoto</a></em></p>
+    </body>
+</html>
